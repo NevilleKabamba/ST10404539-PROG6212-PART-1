@@ -50,13 +50,13 @@ Before you begin, ensure you have the following installed:
    git clone https://github.com/NevilleKabamba/ST10404539-PROG6212-PART-1.git
    cd ContractMonthlyClaimSys
 
-2. **Open the project in Visual Studio:
+2. **Open the project in Visual Studio**:
 
 Launch Visual Studio.
 Click on File > Open > Project/Solution.
 Navigate to the cloned directory and select the ContractMonthlyClaimSys.sln file.
 
-3. **Restore NuGet Packages:
+3. **Restore NuGet Packages**:
 
 In Visual Studio, go to Tools > NuGet Package Manager > Manage NuGet Packages for Solution.
 Click Restore to install all the required dependencies.
